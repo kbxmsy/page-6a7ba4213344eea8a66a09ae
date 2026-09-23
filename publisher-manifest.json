@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "53766849b6af1b9c481ab6cf",
+  "owner": "kbxmsy",
+  "repo": "page-6a7ba4213344eea8a66a09ae",
+  "title": "Nova",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "6a7ba4213344eea8a66a09ae",
+      "a": "Nova",
+      "b": "2027官方最新地址导航",
+      "entity": "Nova",
+      "brand": "Nova",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "1167659f0b5e963e56b6d52c40b82fda803f03403fc6615e462d0d55907879ae",
+      "content": {
+        "primary_entity": "Nova",
+        "keyword1": "Nova",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选用对应客户端，订阅配置更顺畅。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选好套餐和客户端，按文档导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "开始使用 Nova",
+          "AI_DESCRIPTION": "，Nova 提供基础版、旗舰版与团队版三档订阅，月付价格分别为 ¥15、¥35 和 ¥85，按年付为 ¥150、¥350 和 ¥850。基础版适合三台设备日常浏览，旗舰版支持五台设备并带 IPLC 专线，团队版可二十台设备共享并支持企业定制路由。",
+          "AI_FEATURES_INTRO": "围绕套餐档位、设备数量和订阅周期做选择。",
+          "AI_FEATURES_TITLE": "选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量，支持 3 台设备，适合浏览和基础流媒体；旗舰版每月 300GB，支持 5 台设备。",
+          "AI_FEATURE_TEXT_2": "团队版每月 1000GB 流量，支持 20 台设备同时在线，并提供 VIP 专属高带宽节点与企业定制路由。",
+          "AI_FEATURE_TEXT_3": "三档套餐均可按月或按年订阅，按年付折算下来更划算，长期使用可选年付。",
+          "AI_FEATURE_TITLE_1": "按流量选档",
+          "AI_FEATURE_TITLE_2": "按设备定版",
+          "AI_FEATURE_TITLE_3": "按周期订阅",
+          "AI_GUIDE_INTRO": "三步完成 Nova 订阅与客户端设置。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "Nova 为需要海外网络加速的用户提供多档订阅方案，涵盖每日浏览、流媒体与游戏加速等场景。基础版、旗舰版和团队版分别对应不同流量与设备数量，可按需求选择月付或年付。",
+          "AI_HERO_SUBTITLE": "多档订阅，按设备与流量灵活选择",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 3 至 20 台设备",
+          "AI_HIGHLIGHT_2": "年付价格更低，适合长期使用",
+          "AI_HIGHLIGHT_3": "旗舰版含 IPLC 专线优化",
+          "AI_PLANS_INTRO": "基础版 ¥15/月或 ¥150/年，旗舰版 ¥35/月或 ¥350/年，团队版 ¥85/月或 ¥850/年，按设备与流量选档即可。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量、每月流量需求和预算，在基础版、旗舰版、团队版中选择一档。",
+          "AI_STEP_TEXT_2": "确认所选套餐的流量上限、设备并发数以及是否包含 IPLC 专线等权益。",
+          "AI_STEP_TEXT_3": "下载对应设备的客户端，参照订阅导入说明完成配置后连接使用。",
+          "AI_STEP_TITLE_1": "选套餐",
+          "AI_STEP_TITLE_2": "看适配",
+          "AI_STEP_TITLE_3": "配订阅",
+          "AI_VISUAL_TITLE": "Nova 海外加速订阅",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "Nova 三档套餐主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、3 台设备；旗舰版每月 300GB、5 台设备，含 IPLC 专线游戏加速优化；团队版每月 1000GB、20 台设备，含 VIP 专属高带宽节点。",
+          "AI_FAQ_QUESTION_2": "月付和年付怎么选更合适？",
+          "AI_FAQ_ANSWER_2": "短期或临时使用可选月付，基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月；长期使用选年付，仅需 ¥150、¥350、¥850，整体预算更低。",
+          "AI_FAQ_QUESTION_3": "套餐流量用完后怎么办？",
+          "AI_FAQ_ANSWER_3": "可在当前计费周期结束后升级到更高档位，或等到下个周期流量重置。旗舰版与团队版提供更大月流量，适合用量较高的用户。",
+          "AI_FAQ_QUESTION_4": "订阅在哪些客户端上配置？",
+          "AI_FAQ_ANSWER_4": "按设备选择对应客户端，参照客户端文档导入订阅信息。不同平台客户端界面与导入方式存在差异，以所用客户端的实际说明为准。",
+          "AI_FAQ_QUESTION_5": "团队版适合哪些使用场景？",
+          "AI_FAQ_ANSWER_5": "团队版每月 1000GB、支持 20 台设备同时在线，含 VIP 专属高带宽节点与企业定制路由，适合多终端协作或小团队共用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "91wan2019.cn",
+    "host": "91wan2019.cn"
+  },
+  "file_hashes": {
+    "index.html": "8de45226c3c1a55e3841b9abe9d52366e25fcbc1e3bf9babd1b2fb70c108a71a",
+    "sitemap.xml": "319b0765d18c64805265d0a81a7bf2be71165b9e9e66ab64311b377c84f80fbc",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "56ff2931f2c9c31cefc20dcbdb3acc52ac8682c08983d3ee67defff3c6d31b02",
+    "robots.txt": "1a2bf4685e70170a62f293d15df35a777abe6725366324898be9cd30e6b422ad",
+    "d523ab094b5710e5b6c1e190f1c522c6.txt": "b22d4cb4459b8755bb73cee003c6b66aa8cb7cb41c29c5984d79c743e098dfdc"
+  },
+  "revision": "096c2d38d46cc2aa065931c2b71ff298881e880f5b08c96d1cec98544d296c81"
+}

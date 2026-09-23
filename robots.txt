@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://91wan2019.cn/sitemap.xml
